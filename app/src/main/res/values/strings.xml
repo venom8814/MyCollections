@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мои Коллекции</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="label_title">Название</string>
+    <string name="label_description">Описание</string>
+    <string name="hint_title">Введите название</string>
+    <string name="hint_description">Введите описание (необязательно)</string>
+    <string name="header_add">Новый элемент</string>
+    <string name="empty_list">Список пуст. Нажмите «Добавить».</string>
+    <string name="error_title_required">Поле «Название» обязательно</string>
+    <string name="item_saved">Элемент сохранён</string>
+</resources>
